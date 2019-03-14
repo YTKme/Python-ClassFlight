@@ -1,2 +1,2 @@
-# Python-ClassFlight
+# Python Class Flight
 Python Class Flight
